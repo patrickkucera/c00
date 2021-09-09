@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putchar.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pakucera <pakucera@student.42.fr>          +#+  +:+       +#+        */
+/*   By: patrickkucera <patrickkucera@student.42    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/07 15:51:00 by pakucera          #+#    #+#             */
-/*   Updated: 2021/09/07 22:39:36 by pakucera         ###   ########.fr       */
+/*   Updated: 2021/09/09 20:58:53 by patrickkuce      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
