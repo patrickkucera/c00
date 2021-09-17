@@ -6,19 +6,18 @@
 /*   By: pakucera <pakucera@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/07 17:02:09 by pakucera          #+#    #+#             */
-/*   Updated: 2021/09/08 20:26:47 by pakucera         ###   ########.fr       */
+/*   Updated: 2021/09/14 16:59:59 by pakucera         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
+#include <unistd.h> 
 
-void	ft_putchar(int n)
+void	ft_putchar(char n)
 {
 	write(1, &n, 1);
 }
 
 void	ft_print_comb(void)
-
 {
 	int	centaine;
 	int	dizaine;
@@ -47,8 +46,8 @@ void	ft_print_comb(void)
 	}
 }
 
-/* int	main(void)
+int	main(void)
 {
 	ft_print_comb();
 	return (0);
-} */
+}
